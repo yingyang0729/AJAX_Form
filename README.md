@@ -8,26 +8,30 @@ TODO: In the set up processing, it uses visual code for CSS and HTML5 and find w
 And I also use [Vue JS, JSON and SASS](https://www.adobe.com/ca_fr/).
 
 
-## Usage
-TODO: The repo is for 1056 Web Development.
+## Source
+I have learned many kinds of videos. I list the videos as belows.
+
+https://www.youtube.com/watch?v=ys4YZr43BdY&t=471s
+https://www.youtube.com/watch?v=U8j_rk_RuXA
+https://www.youtube.com/watch?v=nKg_p89Hzos&t=414s
+https://www.youtube.com/watch?v=aOeGjSWVe04&t=696s
+https://www.youtube.com/watch?v=juocv4AtrHo&t=387s
+
 
 ## Contributing
-The contributor is Ying Yang and Sian Kim. The folders and the files can be annotated as follow.
-1. Assets-it contains a empty text file and 5 PDF of the websites by Sian Kim;
-2. CSS-it contains 4 main.css file;
-3. images-it contains all image files;
-4. includes-it contains 1 PDF file and 1 text file. The PDF is for semantic tagging and doucment outline;
-5. js-it contains a blank text file;
-6. fonts-all fonts files;
-7. About,Advertisement,Contact,Home, product_index.html;
-8. One README.md file.
+The contributor is Ying Yang. The folders and the files can be annotated as follow.
+1. Based on Professor Trevor's class, I fixed all problems at first with JS and Vue js. I changed the mail.js. After I fixed all problems, there were no alert on the pages.
+2. I changed the style of the page with SASS and imported files from SASS folder to index.html.
+3. I brought a domain and a host [from free host no ads](https://freehostingnoads.net/).
+4. I changed the PHP file based on the Professor Justine's class files. I added some commands on the PHP files so my host can send the email for clients.
+5. I tested the host so many times. All the results of tests were good.
+
 
 ## History
 TODO: 
-The FIP project is finished by Sian Kim and Ying Yang.
-1. Sian Kim wrote words and sentences for the websites;
-2. Ying Yang built up the HTML and CSS  for all 5 pages;
-3. Ying Yang checked all faults on CSS and HTML to finish to ducuments; 
-4. Ying Yang added the CSS animations on Page 1 and Page 5;
-5. Ying Yang wrote the readme file;
-6. Sian Kim pushed all her file into the branch des.sak.bio;
+The project is done but the speed is so slow. Here is some tips.
+1. After you write the contact form, you wait for 30seconds to 1 minutes and you can see the result on the web page. 
+2. You check the email and you can see the email in your email box.
+3. It will be fast on the midnight or the morning time. Afternoon time is so bad and you only can see the result on the page but you cannot receive email.
+
+
