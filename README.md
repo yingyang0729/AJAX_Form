@@ -24,7 +24,7 @@ The contributor is Ying Yang. The folders and the files can be annotated as foll
 2. I changed the style of the page with SASS and imported files from SASS folder to index.html.
 3. I brought a domain and a host [from free host no ads](https://freehostingnoads.net/).
 4. I changed the PHP file based on the Professor Justin's class files. I added some commands on the PHP files so my host can send the email for clients.
-5. I tested the host so many times. All the results of tests were good. Here is a screenshot for the received email.
+5. I tested the host so many times. All the results of tests were good. Here is a screenshot for the received email ![iamge](https://github.com/yingyang0729/Yang_Ying_AJAX_Form/blob/main/images/Screenshot%202022-11-26%20154526.png).
   
 
 
