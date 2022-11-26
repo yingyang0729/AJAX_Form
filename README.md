@@ -1,6 +1,6 @@
 # Yang_Ying_AJAX_FORM
 
-TODO: The repo is for 3039 Multimedia Authoring, which is finished by Ying Yang. In the repo, it contains all css file, sass files, html files, etc. for the course. The project aims to fix all problem and send a successful mail to clients.
+TODO: The repo is for 3039 Multimedia Authoring and 3040 Web Development, which is finished by Ying Yang. In the repo, it contains all css file, sass files, html files, etc. for the course. The project aims to fix all problem and send a successful mail to clients.
 
 
 ## Installation
