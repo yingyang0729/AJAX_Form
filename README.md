@@ -34,7 +34,7 @@ TODO:
 The project is done but the speed is so slow. Here is some tips.
 1. After you write the contact form, you wait for 30seconds to 1 minutes and you can see the result on the web page. 
 2. You check the email and you can see the email in your email box. Here is the screenshot of the email. ![image](https://github.com/yingyang0729/Yang_Ying_AJAX_Form/blob/main/images/Screenshot%202022-11-26%20154620.png)
-3. It will be fast on the midnight or the morning time. Afternoon time is so bad and you only can see the result on the page but you cannot receive email. Here is the result of the page.
+3. It will be fast on the midnight or the morning time. Afternoon time is so bad and you only can see the result on the page but you cannot receive email. Here is the result of the page. I have designed the page but I did not update with my host because I wanted to speed up the website. However, I contained all my design as CSS files.
 ![image](https://github.com/yingyang0729/Yang_Ying_AJAX_Form/blob/main/images/Screenshot%202022-11-26%20155315.png)
 
 
