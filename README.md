@@ -39,7 +39,7 @@ The project is done but the speed is so slow. Here is some tips.
 
 
 ## Credits
-TODO: The FIP is about 10% for credits in the course.
+TODO: The FIP is about 10% for points of MMED3039 and MMED3040.
 
 ## License
 TODO: Fanshawe College-Interative Media Design-Level 3
