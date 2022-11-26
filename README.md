@@ -2,11 +2,12 @@
 
 TODO: The repo is for 3039 Multimedia Authoring, which is finished by Ying Yang. In the repo, it contains all css file, sass files, html files, etc. for the course. The project aims to fix all problem and send a successful mail to clients.
 
-## Installation
-TODO: In the set up processing, it uses visual code for CSS and HTML5 and find ways on [W3Schools](https://www.w3schools.com/). 
-And the developer also uses [Adobe Photoshop and Adobe Illustrator](https://www.adobe.com/ca_fr/).
 
-During the processing of creating the CSS animation, Ying Yang checks many information. Those references include:[CSS Animation from Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations), [Learn CSS Animation In 15 Minutes](https://www.youtube.com/watch?v=YszONjKpgg4&t=652s), [How To Create Performant CSS Animations](https://www.youtube.com/watch?v=4PStxeSIL9I). Ying Yang learns from it and changes those code to use.
+## Installation
+TODO: In the set up processing, it uses visual code for CSS and HTML5 and find ways on [MDN Web Docs](https://developer.mozilla.org/en-US/). I also learn JS knowledge from [Mozilla](https://developer.mozilla.org/fr/docs/Web/JavaScript).
+And I also use [Vue JS, JSON and SASS](https://www.adobe.com/ca_fr/).
+
+
 ## Usage
 TODO: The repo is for 1056 Web Development.
 
