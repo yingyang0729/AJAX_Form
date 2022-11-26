@@ -38,3 +38,8 @@ The project is done but the speed is so slow. Here is some tips.
 ![image](https://github.com/yingyang0729/Yang_Ying_AJAX_Form/blob/main/images/Screenshot%202022-11-26%20155315.png)
 
 
+## Credits
+TODO: The FIP is about 10% for credits in the course.
+
+## License
+TODO: Fanshawe College-Interative Media Design-Level 3
