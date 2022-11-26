@@ -11,12 +11,12 @@ And I also use [Vue JS, JSON and SASS](https://www.adobe.com/ca_fr/).
 ## Source
 I have learned many kinds of videos. I list the videos as belows.
 
-https://www.youtube.com/watch?v=RcN265mm_mw&t=624s
-https://www.youtube.com/watch?v=DeqOVJ-aXkg&t=119s
-https://www.youtube.com/watch?v=_bT-hcTsYhI&t=706s
-https://www.youtube.com/watch?v=mB09zn17mTg&t=468s
-https://www.youtube.com/watch?v=1k_BoyWjzDY&t=615s
-https://www.youtube.com/watch?v=fIYyemqKR58
+https://www.youtube.com/watch?v=RcN265mm_mw&t=624s ;
+https://www.youtube.com/watch?v=DeqOVJ-aXkg&t=119s ;
+https://www.youtube.com/watch?v=_bT-hcTsYhI&t=706s ;
+https://www.youtube.com/watch?v=mB09zn17mTg&t=468s ;
+https://www.youtube.com/watch?v=1k_BoyWjzDY&t=615s ;
+https://www.youtube.com/watch?v=fIYyemqKR58 ;
 
 ## Contributing
 The contributor is Ying Yang. The folders and the files can be annotated as follow.
