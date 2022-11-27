@@ -54,7 +54,7 @@ if($_POST) {
 
     $headers = "To: " .$email;
     
-    $result = mail($_POST['email'],  $_POST['message'],  $visitor_name, $subject);
+    $result = mail($_POST['email'],  $_POST['message'],  $visitor_name, $subject, "thanks for your message and I will contact you ASAP");
 
     if ($result){
         $success = "Sent successfully!";
