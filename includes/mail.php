@@ -4,7 +4,7 @@ header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json; charset=UTF-8");
 
 if($_POST) {
-  $receipent = "message@yingyangdesign.com";
+  $receipent = "text@yingyangdesign.com";
   $subject = "Email from Ying Yang's portfolio site";
   $visitor_name = "";
   $visitor_email = "";
@@ -54,7 +54,7 @@ if($_POST) {
 
     $headers = "To: " .$email;
     
-    $result = mail($_POST['email'],  $_POST['message'],  $visitor_name, $subject, "thanks for your message and I will contact you ASAP");
+    $result = mail($visitor_name, $subject,$receipent, $message, $headers);
 
     if ($result){
         $success = "Sent successfully!";
@@ -62,7 +62,7 @@ if($_POST) {
         $failed = "Sorry!";
     }
   
-  $headers = "From: message@yingyangdesign.com"."\r\n"."Reply-to: again@again.com"."\r\n"."X-Mailer: PHP/".phpversion();
+  $headers = "From: text@yingyangdesign.com"."\r\n"."Reply-to: again@again.com"."\r\n"."X-Mailer: PHP/".phpversion();
 
   if(count($fail) == 0) {
     mail($receipent, $subject, $message, $headers);
